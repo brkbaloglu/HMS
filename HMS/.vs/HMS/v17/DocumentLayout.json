@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\HMS\\HMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C84A8A4C-D0E1-4BA3-A4B3-83A739063E76}|HMS\\HMS.csproj|c:\\users\\lenovo\\desktop\\hms\\hms\\hms\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C84A8A4C-D0E1-4BA3-A4B3-83A739063E76}|HMS\\HMS.csproj|solutionrelative:hms\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C84A8A4C-D0E1-4BA3-A4B3-83A739063E76}|HMS\\HMS.csproj|c:\\users\\lenovo\\desktop\\hms\\hms\\hms\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C84A8A4C-D0E1-4BA3-A4B3-83A739063E76}|HMS\\HMS.csproj|solutionrelative:hms\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C84A8A4C-D0E1-4BA3-A4B3-83A739063E76}|HMS\\HMS.csproj|c:\\users\\lenovo\\desktop\\hms\\hms\\hms\\patients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C84A8A4C-D0E1-4BA3-A4B3-83A739063E76}|HMS\\HMS.csproj|solutionrelative:hms\\patients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C84A8A4C-D0E1-4BA3-A4B3-83A739063E76}|HMS\\HMS.csproj|c:\\users\\lenovo\\desktop\\hms\\hms\\hms\\patients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C84A8A4C-D0E1-4BA3-A4B3-83A739063E76}|HMS\\HMS.csproj|solutionrelative:hms\\patients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C84A8A4C-D0E1-4BA3-A4B3-83A739063E76}|HMS\\HMS.csproj|c:\\users\\lenovo\\desktop\\hms\\hms\\hms\\doctors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C84A8A4C-D0E1-4BA3-A4B3-83A739063E76}|HMS\\HMS.csproj|solutionrelative:hms\\doctors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C84A8A4C-D0E1-4BA3-A4B3-83A739063E76}|HMS\\HMS.csproj|c:\\users\\lenovo\\desktop\\hms\\hms\\hms\\doctors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C84A8A4C-D0E1-4BA3-A4B3-83A739063E76}|HMS\\HMS.csproj|solutionrelative:hms\\doctors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Medicine.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\HMS\\HMS\\HMS\\Medicine.cs",
+              "RelativeDocumentMoniker": "HMS\\Medicine.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\HMS\\HMS\\HMS\\Medicine.cs",
+              "RelativeToolTip": "HMS\\Medicine.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAA5wDsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T01:20:06.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Medicine.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\HMS\\HMS\\HMS\\Medicine.cs",
+              "RelativeDocumentMoniker": "HMS\\Medicine.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\HMS\\HMS\\HMS\\Medicine.cs [Design]",
+              "RelativeToolTip": "HMS\\Medicine.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T01:18:40.425Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Doctors.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\HMS\\HMS\\HMS\\Doctors.cs",
+              "RelativeDocumentMoniker": "HMS\\Doctors.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\HMS\\HMS\\HMS\\Doctors.cs [Design]",
+              "RelativeToolTip": "HMS\\Doctors.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T01:18:14.527Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Patients.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\HMS\\HMS\\HMS\\Patients.cs",
+              "RelativeDocumentMoniker": "HMS\\Patients.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\HMS\\HMS\\HMS\\Patients.cs",
+              "RelativeToolTip": "HMS\\Patients.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAkwDkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T01:12:24.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Patients.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\HMS\\HMS\\HMS\\Patients.cs",
+              "RelativeDocumentMoniker": "HMS\\Patients.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\HMS\\HMS\\HMS\\Patients.cs [Design]",
+              "RelativeToolTip": "HMS\\Patients.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T01:10:24.126Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Doctors.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\HMS\\HMS\\HMS\\Doctors.cs",
+              "RelativeDocumentMoniker": "HMS\\Doctors.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\HMS\\HMS\\HMS\\Doctors.cs",
+              "RelativeToolTip": "HMS\\Doctors.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAywF0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T00:07:01.129Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

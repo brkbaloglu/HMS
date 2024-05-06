@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Desktop\HMS\HMS\HMS\bin\Debug\HMS.exe.config
+C:\Users\Lenovo\Desktop\HMS\HMS\HMS\bin\Debug\HMS.exe
+C:\Users\Lenovo\Desktop\HMS\HMS\HMS\bin\Debug\HMS.pdb
+C:\Users\Lenovo\Desktop\HMS\HMS\HMS\bin\Debug\Guna.UI2.dll
+C:\Users\Lenovo\Desktop\HMS\HMS\HMS\obj\Debug\HMS.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\HMS\HMS\HMS\obj\Debug\HMS.HMS.resources
+C:\Users\Lenovo\Desktop\HMS\HMS\HMS\obj\Debug\HMS.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\HMS\HMS\HMS\obj\Debug\HMS.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\HMS\HMS\HMS\obj\Debug\HMS.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\HMS\HMS\HMS\obj\Debug\HMS.csproj.Up2Date
+C:\Users\Lenovo\Desktop\HMS\HMS\HMS\obj\Debug\HMS.exe
+C:\Users\Lenovo\Desktop\HMS\HMS\HMS\obj\Debug\HMS.pdb
+C:\Users\Lenovo\Desktop\HMS\HMS\HMS\obj\Debug\HMS.Doctors.resources
+C:\Users\Lenovo\Desktop\HMS\HMS\HMS\obj\Debug\HMS.HomePage.resources
+C:\Users\Lenovo\Desktop\HMS\HMS\HMS\obj\Debug\HMS.Medicine.resources
+C:\Users\Lenovo\Desktop\HMS\HMS\HMS\obj\Debug\HMS.Patients.resources
